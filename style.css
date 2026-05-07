@@ -279,10 +279,6 @@ a:hover { color: var(--accent-light); }
   transition: border-color var(--transition);
 }
 
-.team-card .raymond-headshot {
-  object-position: center 20%;
-}
-
 .team-card h4 {
   margin: 0 0 4px;
   font-size: 1.1rem;
